@@ -10,8 +10,9 @@ top 명령어는 시스템의 실시간 성능 모니터링 도구로, 현재 �
 - 프로세스를 정렬하거나 필터링할 수 있음
 
 ### top 명령어를 실행한 모습
-![top 명령어1](https://github.com/jwchoi423/opensource/assets/115212670/ced7adc8-ec7b-424f-8dec-0d0b1d0b6071)
+![top 명령어](https://github.com/jwchoi423/opensource/blob/main/top%20%EB%AA%85%EB%A0%B9%EC%96%B4.PNG)
 
+![top 명령어1](https://github.com/jwchoi423/opensource/assets/115212670/ced7adc8-ec7b-424f-8dec-0d0b1d0b6071)
 #### 첫 번째 줄
 현재 시간, 서버가 구동된 후 지난 시간, 유저의 수, CPU가 수행하는 작업의 양의 이동 평균(1분/5분/15분)
 #### 두 번째 줄
